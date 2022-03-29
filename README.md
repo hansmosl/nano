@@ -1,2 +1,2 @@
 # nano
-A minimal WordPress AMP compatible theme
+This is WordPress AMP compatible theme based in underscores.
